@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<airships>
+    <airship type="1" name="PLANE" image="airship_1.png" movespeed="80" rotatespeed="40" weaponslotnum="2" linearacc="60" angacc="80" >
+        <weaponslots>
+            <weaponslot angleoffset="90" linearoffset="10" />
+            <weaponslot angleoffset="180" linearoffset="20" />
+        </weaponslots>
+    </airship>
+    <airship type="2" name="RUBBISH" image="rubbish.png" movespeed="80" rotatespeed="40" weaponslotnum="2" linearacc="40" angacc="40">
+        <weaponslots>
+            <weaponslot angleoffset="-30" linearoffset="5" />
+            <weaponslot angleoffset="30" linearoffset="5" />
+        </weaponslots>
+    </airship>
+    <airship type="3" name="SHIP1" image="airship_2.png" movespeed="80" rotatespeed="30" weaponslotnum="2" enginesslotnum="3" linearacc="40" angacc="40" techmodnum="2">
+        <weaponslots>
+            <weaponslot angleoffset="90" linearoffset="10" />
+            <weaponslot angleoffset="-90" linearoffset="10" />
+        </weaponslots>
+    </airship>
+    <airship type="4" name="STUPID" image="stupid.png" movespeed="100" rotatespeed="40" weaponslots="0" enginesslotnum="0">
+    </airship>
+    <airship type="5" name="SHIP3" image="airship_3.png" movespeed="120" rotatespeed="40" weaponslotnum="2" enginesslotnum="3" linearacc="60" angacc="40" techmodnum="2">
+        <weaponslots>
+            <weaponslot angleoffset="-65" linearoffset="5" />
+            <weaponslot angleoffset="65" linearoffset="15" />
+        </weaponslots>
+    </airship>
+    <airship type="7" name="FORDISPLAY" image="airship_3.png" movespeed="120" rotatespeed="40" weaponslotnum="1" enginesslotnum="3" linearacc="60" angacc="40" techmodnum="2">
+        <weaponslots>
+            <weaponslot angleoffset="90" linearoffset="5" />
+        </weaponslots>
+    </airship>
+    <airship type="6" name="RUBBISH2" image="rubbish.png" movespeed="120" rotatespeed="35" weaponslotnum="2" linearacc="40" angacc="40">
+        <weaponslots>
+            <weaponslot angleoffset="0" linearoffset="5" />
+            <weaponslot angleoffset="0" linearoffset="25" />
+        </weaponslots>
+    </airship>
+</airships>

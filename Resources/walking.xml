@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<gamescene>
+    <background filename="bgstar.jpg" x="480" y="320"/>
+    <player x="200" y="320" />
+    <enemies>
+        <!--enemy airship="2" x="428" y="174" hp="500" rotation="0">
+        </enemy>
+        <enemy airship="2" x="428" y="371" hp="500">
+        </enemy>
+        <enemy airship="2" x="587" y="215" hp="500">
+        </enemy>
+        <enemy airship="2" x="595" y="429" hp="500">
+        </enemy>
+        <enemy airship="2" x="748" y="281" hp="500">
+        </enemy>
+        <enemy airship="2" x="764" y="498" hp="500">
+        </enemy>
+        <enemy airship="2" x="927" y="278" hp="500">
+        </enemy>
+        <enemy airship="2" x="971" y="481" hp="500">
+        </enemy>
+        <enemy airship="2" x="1058" y="229" hp="500">
+        </enemy>
+        <enemy airship="2" x="1089" y="441" hp="500">
+        </enemy>
+        <enemy airship="2" x="1168" y="316" hp="500">
+        </enemy-->
+    </enemies>
+    <roadsigns>
+        <roadsign x="428" y="174">
+        </roadsign>
+        <roadsign x="637" y="125">
+        </roadsign>
+        <roadsign x="898" y="281">
+        </roadsign>
+        <roadsign x="1077" y="278">
+        </roadsign>
+        <roadsign x="1208" y="229">
+        </roadsign>
+        <roadsign x="1418" y="316">
+        </roadsign>
+    </roadsigns>
+    <obstacles>
+    </obstacles>
+</gamescene>

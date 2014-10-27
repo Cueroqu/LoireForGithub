@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<projectiles>
+    <projectile type="1" name="PROJECTILE1" image="Projectile2.png" power="30" speed="450" />
+    <projectile type="2" name="LASER1" image="laser1.png" power="50" speed="400" />
+    <projectile type="3" name="TORPEDO" image="Torpedo.png" power="25" speed="200" rotate="80" track="true" linearacc="70" angacc="40" />
+    <projectile type="4" name="LASER2" image="laser1.png" power="40" speed="800" linearacc="400" />
+    <projectile type="5" name="LASER3" image="laser3.png" power="30" speed="300" />
+    <projectile type="6" name="BEAM" image="laser2.png" power="5" speed="2048" />
+</projectiles>

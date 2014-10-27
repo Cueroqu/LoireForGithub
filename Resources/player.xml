@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<player image="jeek.jpg">
+    <airships>
+        <!--airship airship="7" hp="1000">
+            <Weapons>
+                <weapon type="1" projtype="1" />
+            </Weapons>
+        </airship-->
+        <airship airship="5" hp="1000" selected="true">
+            <Weapons>
+            </Weapons>
+        </airship>
+        <airship airship="3" hp="500">
+            <Weapons>
+                <!--Weapon type="1" projtype="2" id="2"/>
+                <Weapon type="2" projtype="1" id="1"/-->
+            </Weapons>
+        </airship>
+    </airships>
+    <idleweapons>
+        <Weapon type="5" projtype="4" />
+        <Weapon type="3" projtype="3" />
+        <Weapon type="2" projtype="2" />
+        <weapon type="1" projtype="1" />
+    </idleweapons>
+</player>

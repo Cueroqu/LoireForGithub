@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<gamescene>
+    <background filename="bgstar.jpg" x="480" y="320"/>
+    <player x="0.5" y="0.5" />
+    <enemies>
+        <enemy airship="2" x="0.1" y="0.1" hp="500" rotation="0" move_type="1">
+            <Weapons>
+                <weapon type="3" projtype="3" />
+            </Weapons>
+        </enemy>
+        <enemy airship="2" x="0.2" y="0.1" hp="500" rotation="0" move_type="2">
+            <Weapons>
+                <weapon type="3" projtype="3" />
+            </Weapons>
+        </enemy>
+        <enemy airship="2" x="0.3" y="0.1" hp="500" rotation="0" move_type="0">
+            <Weapons>
+                <weapon type="3" projtype="3" />
+            </Weapons>
+        </enemy>
+    </enemies>
+    <obstacles>
+    </obstacles>
+</gamescene>

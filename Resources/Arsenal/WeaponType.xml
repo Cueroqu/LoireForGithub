@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<weapons>
+    <weapon type="1" name="LAZER" image="lazer.png" anglerange="80" linearrange="350" cdtime="2.5" projfreq="0.3" projnum="7" projlinear="2.5" />
+    <weapon type="2" name="single_CANNON" image="canons.png" anglerange="130" linearrange="300" cdtime="3" projfreq="0.5" projnum="5" projlinear="3" />
+    <weapon type="3" name="WEAPON3" anglerange="100" linearrange="450" cdtime="5" projfreq="0.7" projnum="4" projlinear="2.5" />
+    <weapon type="4" name="TORPEDOWEAPON" anglerange="80" linearrange="200" cdtime="4"  projfreq="0.5" projnum="3" projlinear="2" />
+    <weapon type="5" name="CANNONS" anglerange="120" linearrange="300" cdtime="1.5" projfreq="0.75" projnum="6" parallel="3" interval="10" projlinear="2" />
+    <weapon type="6" name="LASER2" anglerange="60" linearrange="330" cdtime="2.5" projfreq="0.1" projnum="8" projlinear="1.1" />
+</weapons>

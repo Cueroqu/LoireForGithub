@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<gamescript>
+    <event type="CHAT" left="player" right="yang" filename="chat1.xml" />
+    <event type="CHAT" left="player" right="yang" filename="chat2.xml" />
+    <event type="CHAT" left="player" right="yang" filename="chat3.xml" />
+    <!--event type="CHAT" left="player" right="yang" filename="chat4.xml" /-->
+    <event type="OVER" />
+</gamescript>

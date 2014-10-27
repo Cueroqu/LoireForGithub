@@ -1,0 +1,13 @@
+//
+// 2.txt
+// Loire
+// Created by Cuero Zhun Qu on 14-07-26.
+//
+//
+
+#ifndef Loire_2_txt
+#define Loire_2_txt
+
+enum 2 {PLANE = 1, RUBBISH = 2};
+
+#endif

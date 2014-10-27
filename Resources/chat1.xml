@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<!--chat type="left" content="adobe" />
+<chat type="right" content="usb" />
+<chat type="both" content="My profile picture sucks" /-->
+<chat type="voiceover" content="Phase 1-> learn to walk: please pass by all the green dots. Tap again to continue." />
+<event type="FIGHT" filename="walking.xml" />
